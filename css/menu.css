@@ -1,0 +1,101 @@
+
+.menu{
+    width: 65px;
+    height: 763px;
+    background-color: #818081;
+    float: left;
+}
+.menu1{
+
+
+
+
+
+}
+.menu2{
+    margin: 43px 21px;
+
+
+
+
+}
+
+
+
+.a11{
+    background: url("../images/menu1/wendang.png") no-repeat;
+    display: block;
+    width: 45px;
+    height: 70px;
+    margin: 20px 2px 15px;
+}
+.a12{
+    background: url("../images/menu1/wenjuan.png") no-repeat;
+    display: block ;
+    width: 65px;
+    height: 70px;
+    margin: 20px 2px 15px;
+}
+.a13{
+    background: url("../images/menu1/qiandao.png") no-repeat;
+    display: block ;
+    width: 65px;
+    height: 70px;
+    margin: 20px 2px 15px;
+
+
+}
+
+.a21{
+    margin-bottom: -25px;
+    margin-left: -5px;
+    display: block;
+    width: 45px;
+    height: 70px;
+    background: url("../images/menu1/2-1.png") no-repeat;
+}
+.a22{
+    margin-bottom: -25px;
+    margin-left: -5px;
+    display: block;
+    width: 45px;
+    height: 70px;
+    background: url("../images/menu1/2-2.png") no-repeat;
+}
+.a23{
+    margin-bottom: -25px;
+    display: block;
+    width: 45px;
+    height: 70px;
+    background: url("../images/menu1/2-3.png") no-repeat;
+}
+.a24{
+    margin-bottom: -25px;
+    margin-left: -3px;
+    display: block;
+    width: 45px;
+    height: 70px;
+    background: url("../images/menu1/2-4.png") no-repeat;
+}
+.a25{
+    margin-bottom: -25px;
+    margin-left: -5px;
+    display: block;
+    width: 45px;
+    height: 70px;
+    background: url("../images/menu1/2-5.png") no-repeat;
+}
+.a26{
+    margin-bottom: -25px;
+    margin-left: -5px;
+    display: block;
+    width: 45px;
+    height: 70px;
+    background: url("../images/menu1/2-6.png") no-repeat;
+}
+
+
+
+
+
+

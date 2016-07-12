@@ -1,0 +1,95 @@
+
+body{
+    background-color: #d2d2d2;
+    line-height: 40px;
+    width: auto;
+    font-family: 黑体;
+    font-size: 14px;
+    overflow-x: auto;
+}
+
+
+/*.live{*/
+    /*width: 1400px;*/
+    /*margin: 0 auto;*/
+/*//*/
+/*}*/
+
+/*.pic li{*/
+    /*overflow: hidden;*/
+    /*margin: -15px 0 0 -40px;*/
+/*}/*/
+menu{
+    float: left;
+}
+.chat ul,li{
+
+    margin: -2px 0px 0 -20px ;
+    list-style-type: none;
+}
+
+
+.header{
+    background-color: #d2d2d2;
+    font-size: 16px;
+
+
+}
+.header p{
+    display: inline;
+    font-weight: bold;
+    margin: 13px 1043px 10px 21px;
+}
+.left{
+    margin: 280px 14px 436px 14px;
+    float: left;
+}
+.right {
+    margin: 280px 14px 436px 14px;
+    float: left;
+
+}
+.pic{
+    width: 930px;
+    float:left;
+    margin-right: 50px;
+    margin-left: 50px;
+
+
+
+
+
+}
+.tu{
+    float: left;
+}
+.tu img{
+    width: 928px;
+    height: 575px;
+    
+    
+    
+}
+
+
+
+.small{
+    margin: -25px;
+    width: 1024px;
+    height: 189px;
+    border-top: 1px solid #d2d2d2;
+    border-right: 1px solid  #d2d2d2;
+}
+.small ul li{
+    display: block;
+    float:left;
+    margin: 20px 20px 10px 10px;
+}
+.small ul li.hover{cursor:pointer;}
+.small ul li.active{cursor:default;}
+.smallbtn{
+    margin-top: -200px;
+    
+    
+    
+}
